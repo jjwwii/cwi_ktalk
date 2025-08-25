@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145863081831",
+    "project_id": "cwi-ktalk",
+    "storage_bucket": "cwi-ktalk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145863081831:android:9908e9f1387fd9026d79c2",
+        "android_client_info": {
+          "package_name": "com.example.cwi_ktalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQy83yytChBAjTMKov_gczfGvYhpv3jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
